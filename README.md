@@ -1,6 +1,8 @@
 # 🛡️ MetaEraser Pro
 **MetaEraser Pro** is a powerful and stylish tool for managing the metadata of your media files. Specifically optimized for AI workflows (Stable Diffusion, ComfyUI), it allows you to completely strip "digital footprints" or integrate complex Workflows directly into images and videos.
 
+![Главный экран](Screenshot1.jpg)
+
 ## ✨ Key Features
 - **🔍 Deep Analysis:** Recursively searches for hidden tags, prompts, and model settings (Checkpoint, LoRA, VAE) within files.
 - **🧼 Sterilization (Cleaning):** Complete removal of metadata from images (PNG, JPG, WebP) and video/audio files without loss of content quality. 
@@ -36,6 +38,8 @@
   # Русская версия
 # 🛡️ MetaEraser Pro
 **MetaEraser Pro** — это мощный и стильный инструмент для управления метаданными ваших медиафайлов. Приложение специально оптимизировано для работы с нейросетями (Stable Diffusion, ComfyUI), позволяя не только полностью очищать файлы от «цифровых следов», но и интегрировать рабочие процессы (Workflows) прямо в изображения и видео.
+
+![Главный экран](Screenshot1.jpg)
 
 ## ✨ Основные возможности
 - **🔍 Глубокий анализ:** Рекурсивный поиск скрытых тегов, промптов и настроек моделей (Checkpoint, LoRA, VAE) внутри файлов.
