@@ -1,0 +1,4 @@
+PyQt6
+Pillow
+pillow-heif
+mutagen
